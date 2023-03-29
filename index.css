@@ -49,17 +49,17 @@ header{
 }
 .nav-link-apple{
     width: 1.6rem;
-    background: url("iphone/imgres\ apple\ logo.html") center no-repeat;
+    background: url("imgres\ apple\ logo.html") center no-repeat;
     height: 4.4rem;
 }
 .nav-link-search{
     width: 1.6rem;
-    background: url("<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />") center no-repeat;
+    /* background: url("<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />") center no-repeat; */
     height: 4.4rem;
 }
 .nav-link-bag{
     width: 1.4rem;
-    background: url("<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />") center no-repeat;
+    /* background: url("<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />") center no-repeat; */
     height: 4.4rem;
 }
 .iphone-11-pro{
@@ -76,7 +76,7 @@ header{
     border-bottom: 0.6rem solid#ffffff;
 }
 .iphone-11-pro{
-    background: url(iphone/iphone_11_pro_medium.jpg);
+    background: url(iphone_11_pro_medium.jpg);
 }
 .title{
     color: #ffffff;
@@ -124,7 +124,7 @@ header{
     border-bottom: 2px solid #66bbff;
 }
 .iphone-11{
-    background:url(iphone/iphone_11.jpg);
+    background:url(iphone_11.jpg);
 }
 .title-dark{
     color:#000;
@@ -136,11 +136,11 @@ header{
     border-bottom-color:#0070c9 ;
 }
 .watch{
-    background: url(iphone/watch_small.jpg);
+    background: url(watch_small.jpg);
 }
 .title-heading-watch{
     height: 7.8rem;
-    background: url(iphone/logo_watch\ series\ 5.png) center no-repeat;
+    background: url(logo_watch\ series\ 5.png) center no-repeat;
     background-size: auto 7.8rem;
     margin-top: 1.6rem;
 }
@@ -159,13 +159,13 @@ header{
 /*to make responsive when size below 1068px*/
 @media screen and (max-width:1068px){
     .iphone-11-pro{
-        background: url(iphone/iphone_11_pro.jpg);
+        background: url(iphone_11_pro.jpg);
     }
     .iphone-11{
-        background: url(iphone/iphone_11.jpg);
+        background: url(iphone_11.jpg);
     }
     .watch{
-        background: url(iphone/watch_small.jpg);
+        background: url(watch_small.jpg);
     }
     .hero{
         height: 65rem;
@@ -186,7 +186,7 @@ header{
     }
     .title-heading-watch{
         height: 6.2rem;
-        background: url(iphone/watch\ series\ 7\ logo.png)center no-repeat;
+        background: url(watch\ series\ 7\ logo.png)center no-repeat;
         background-size:auto 6.2rem ;
     }
 
